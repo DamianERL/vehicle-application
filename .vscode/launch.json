@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VehicleApplication<vehicle-application>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.task.VehicleApplication",
+            "projectName": "vehicle-application",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
